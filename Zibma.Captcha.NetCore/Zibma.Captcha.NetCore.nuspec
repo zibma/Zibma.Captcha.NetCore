@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Zibma Infotech</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/zibma/Zibma.Captcha.NetCore</projectUrl>
+    <description>Zibma.Captcha.NetCore</description>
+    <releaseNotes>Create Captcha Image OS Independently.</releaseNotes>
+    <copyright>2023 Zibma Infotech</copyright>
+    <dependencies>
+    	<dependency id="SixLabors.ImageSharp.Drawing" version="1.0.0-beta15" />
+    </dependencies>
+    <tags>Captcha .net Linux Windows</tags>
+  </metadata>
+</package>
